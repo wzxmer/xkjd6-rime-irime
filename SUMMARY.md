@@ -1,6 +1,6 @@
 # Table of contents
 
-* [快速入门](primary/layouts.md)
+* [快速入门](primary/1.md)
   * [1.键位分布](primary/1.md)
   * [2.如何打常用字](primary/2.md)
   * [3.如何打常用词](primary/3.md)
